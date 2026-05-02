@@ -1,0 +1,50 @@
+{
+  "format_version": "1.9.0",
+  "credit": "Made with Blockbench",
+  "texture_size": [64, 64],
+  "gui_light": "front",
+  "textures": {
+    "0": "iocraft:block/puerta_iocraft/bottom",
+    "1": "iocraft:block/puerta_iocraft/top",
+    "particle": "iocraft:block/puerta_iocraft/bottom"
+  },
+  "elements": [
+    {
+      "name": "top",
+      "from": [8, 16, 0],
+      "to": [9, 32, 16],
+      "rotation": {"angle": 0, "axis": "y", "origin": [7, 16, 3]},
+      "faces": {
+        "north": {"uv": [1.125, 3.04688, 1.82813, 15.53125], "texture": "#1"},
+        "east":  {"uv": [0, 0, 16, 16], "texture": "#1"},
+        "south": {"uv": [15.6875, 1.65625, 15.9375, 5.65625], "texture": "#1"},
+        "west":  {"uv": [16, 0, 0, 16], "texture": "#1"},
+        "up":    {"uv": [15.75, 3.39063, 16, 6.39063], "texture": "#1"},
+        "down":  {"uv": [15.75, 2.54688, 16, 5.54688], "texture": "#1"}
+      }
+    },
+    {
+      "name": "bottom",
+      "from": [8, 0, 0],
+      "to": [9, 16, 16],
+      "rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 7]},
+      "faces": {
+        "north": {"uv": [0, 0, 3.59375, 11.29688], "texture": "#0"},
+        "east":  {"uv": [0, 0, 16, 16], "texture": "#0"},
+        "south": {"uv": [0, 0, 0.25, 4], "texture": "#0"},
+        "west":  {"uv": [16, 0, 0, 16], "texture": "#0"},
+        "up":    {"uv": [0, 0, 0.25, 3], "texture": "#0"},
+        "down":  {"uv": [0, 0, 0.25, 3], "texture": "#0"}
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": { "translation": [0, 0, -2.75], "scale": [1, 0.52, 0.61] },
+    "thirdperson_lefthand":  { "translation": [0, 4.25, -2.25], "scale": [1, 0.52, 0.61] },
+    "firstperson_righthand": { "translation": [2.25, 0, 0] },
+    "firstperson_lefthand":  { "translation": [2.25, 0, 0] },
+    "gui":                   { "rotation": [0, -90, 0], "translation": [0, -3.75, 0], "scale": [0.98, 0.37, 0.47] },
+    "head":                  { "rotation": [0, 0, -90], "translation": [-8, 6.75, 0] },
+    "fixed":                 { "rotation": [0, -90, 0], "translation": [0, -4, -1.25], "scale": [0.76, 0.54, 0.63] }
+  }
+}

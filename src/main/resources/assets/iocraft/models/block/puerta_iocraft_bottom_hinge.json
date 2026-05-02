@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom_rh",
+  "textures": {
+    "bottom": "iocraft:block/puerta_iocraft/bottom",
+    "top": "iocraft:block/puerta_iocraft/top"
+  }
+}

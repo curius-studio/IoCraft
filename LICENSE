@@ -1,0 +1,50 @@
+All Rights Reserved
+
+Copyright (c) Curius 2025 (Jose Escorcia)
+
+This software, including source code, binaries, assets, and documentation, is proprietary.
+
+Permitted use
+
+- Personal use
+- Use in private or public Minecraft servers
+- Testing, evaluation, and educational purposes
+
+Restrictions
+
+- No redistribution of the software (modified or unmodified)
+- No commercial use without explicit permission
+- No sublicensing or resale
+- No creation of derivative works based on this code
+- No rehosting or mirroring of this project without authorization
+
+API Addon Exception
+
+Mods, plugins, or tools that interact exclusively through the public IoCraft API
+are not considered derivative works under this license. You may create, distribute,
+and commercialize such addons freely, provided they do not include, copy, or embed
+any other part of this source code.
+
+Tools and Examples Exception
+
+Files located under the tools/ directory are provided as reference implementations.
+They may be freely copied, modified, and used as a starting point for your own
+projects without restriction.
+
+Disclaimer of Warranty
+
+This software is provided "as is", without warranty of any kind, express or implied,
+including but not limited to the warranties of merchantability, fitness for a
+particular purpose, and non-infringement. In no event shall the author be liable
+for any claim, damages, or other liability arising from the use of this software.
+
+Notes
+
+- This license does not grant any rights to modify or distribute the code.
+- Access to the source code does not imply permission to reuse it.
+
+Permissions
+
+For licensing inquiries, commercial use, or special permissions, contact:
+
+curiuscommunication@gmail.com

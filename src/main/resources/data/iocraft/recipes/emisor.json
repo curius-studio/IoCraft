@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "VRV",
+    "BCB",
+    "PPP"
+  ],
+  "key": {
+    "V": { "item": "minecraft:glass_pane" },
+    "C": { "item": "minecraft:copper_ingot" },
+    "R": { "item": "minecraft:redstone" },
+    "B": { "item": "minecraft:iron_bars" },
+    "P": { "item": "minecraft:stone" }
+  },
+  "result": {
+    "item": "iocraft:emisor",
+    "count": 1
+  }
+}

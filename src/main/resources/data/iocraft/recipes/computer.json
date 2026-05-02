@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "VCV",
+    "RHR",
+    "LLL"
+  ],
+  "key": {
+    "V": { "item": "minecraft:glass_pane" },
+    "C": { "item": "minecraft:book" },
+    "R": { "item": "minecraft:redstone" },
+    "H": { "item": "minecraft:iron_ingot" },
+    "L": { "item": "minecraft:lapis_lazuli" }
+  },
+  "result": {
+    "item": "iocraft:computer",
+    "count": 1
+  }
+}

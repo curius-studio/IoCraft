@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AB",
+    "AB",
+    "AB"
+  ],
+  "key": {
+    "A": { "item": "minecraft:iron_ingot" },
+    "B": { "item": "minecraft:redstone" }
+  },
+  "result": { "item": "iocraft:puerta_iot", "count": 3 }
+}

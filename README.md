@@ -432,6 +432,16 @@ Sugerencias para conectar desde otro dispositivo:
 
 ### 2. Conectar desde dispositivo
 
+#### Librería oficial para Arduino
+
+Si usas un **Arduino** (ESP8266, ESP32 u otro microcontrolador compatible), puedes usar la librería oficial de IoCraft que implementa el protocolo de autenticación completo (HMAC-SHA256, nonce, handshake):
+
+**[IoCraftClient-Arduino](https://github.com/curius-studio/IoCraftClient-Arduino)** — Librería oficial para conectar dispositivos Arduino a IoCraft.
+
+---
+
+#### Ejemplo desde Python
+
 ```python
 import websocket
 import json
